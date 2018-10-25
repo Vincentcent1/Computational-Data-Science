@@ -1,0 +1,23 @@
+python=3.5.6
+theano=1.0.2
+
+weight from gradient descent = 
+	[[-0.5739207 ]
+	[ 1.3575705 ]
+	[ 0.01527568]
+	[-1.8828807 ]]
+
+weight for optimal solution = 
+	[[-0.57392068]
+	 [ 1.35757059]
+	 [ 0.01527565]
+	 [-1.88288076]]
+
+weight from scikit-learn Linear Regression = 
+	[[-0.57392068,  1.35757059,  0.01527565, -1.88288076]])
+
+weight from stochastic gradient descent =
+	[[-0.5733401 ]
+	 [ 1.3558862 ]
+	 [ 0.01319119]
+	 [-1.88197   ]]
